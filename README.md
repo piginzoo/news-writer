@@ -1,0 +1,3 @@
+这个项目是为了测试是否可以用LSTM+Attention实现一个金融写作机器人。
+初期用LSTM+Attention的Seq2seq来实现，
+后期不知道会否可以用上BIRT，对BIRT还很陌生，后续基于这个项目搞搞看。
